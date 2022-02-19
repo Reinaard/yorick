@@ -32,4 +32,6 @@ hallo
     Go To   ${FILMPJE_URL}&t=142s
     
     sleep      1h
-Yorik is dik   
+
+Yorik is dik
+    Sleep      1s
